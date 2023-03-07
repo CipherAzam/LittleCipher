@@ -1,5 +1,2 @@
-vless://ADMIN@txv.khastegynapazir.website:443?path=%2Fadmin_adam&security=tls&encryption=none&alpn=h2,http/1.1&host=txv.khastegynapazir.website&fp=chrome&type=ws&sni=txv.khastegynapazir.website#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7
-vless://ADMIN@txv.khastegynapazir.website:2053?encryption=none&security=tls&sni=txv.khastegynapazir.website&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=txv.khastegynapazir.website&mode=gun#Evangeline%E2%98%95%F0%9F%87%AB%F0%9F%87%B7
-vless://ADMIN@ytp.khastegynapazir.website:80?path=%2Fadmin_smasher&security=tls&encryption=none&alpn=h2,http/1.1&host=ytp.khastegynapazir.website&fp=chrome&type=ws&sni=ytp.khastegynapazir.website#Smasher%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%B7
-vless://ADMIN@ytp.khastegynapazir.website:8080?security=tls&encryption=none&alpn=h2,http/1.1&host=ytp.khastegynapazir.website&headerType=http&fp=chrome&type=tcp&sni=ytp.khastegynapazir.website#Gabriel%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%B7
-vless://ADMIN@ytp.khastegynapazir.website:8880?encryption=none&security=tls&sni=ytp.khastegynapazir.website&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=ytp.khastegynapazir.website&mode=gun#Michaela%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%B7
+vless://ADMIN@txv.khastegynapazir.website:443?type=ws&security=tls&path=%2Fadmin_adam&host=esf.khastegynapazir.website&sni=txv.khastegynapazir.website#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7
+vless://ADMIN@etp.khastegynapazir.website:8080?type=ws&security=tls&path=%2Fadmin_zeus&host=etp.khastegynapazir.website&sni=etp.khastegynapazir.website#Zeus%E2%9A%A1%F0%9F%87%AB%F0%9F%87%B7
