@@ -1,2 +1,2 @@
-vless://ADMIN@ef.khastegynapazir.website:443?type=ws&security=tls&path=%2Fadmin_adam&host=esf.khastegynapazir.website&sni=esf.khastegynapazir.website#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7
+vless://ADMIN@esf.khastegynapazir.website:443?type=ws&security=tls&path=%2Fadmin_adam&host=esf.khastegynapazir.website&sni=esf.khastegynapazir.website#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7
 vless://ADMIN@etp.khastegynapazir.website:8080?type=ws&security=tls&path=%2Fadmin_zeus&host=etp.khastegynapazir.website&sni=etp.khastegynapazir.website#Zeus%E2%9A%A1%F0%9F%87%AB%F0%9F%87%B7
