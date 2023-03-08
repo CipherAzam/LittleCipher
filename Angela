@@ -1,8 +1,4 @@
-vless://ADMIN@esf.khastegynapazir.website:443?type=ws&security=tls&path=%2Fadmin_adam&host=esf.khastegynapazir.website&sni=esf.khastegynapazir.website#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7
 vless://ADMIN@104.19.85.114:443?encryption=none&security=tls&sni=esf.khastegynapazir.website&type=ws&host=esf.khastegynapazir.website&path=%2Fadmin_adam#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7%20Clean
-vless://ADMIN@esf.khastegynapazir.website:2053?type=grpc&security=tls&serviceName=esf.khastegynapazir.website&sni=esf.khastegynapazir.website#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7%20x2
 vless://ADMIN@162.159.136.77:2053?encryption=none&security=tls&sni=esf.khastegynapazir.website&type=grpc&serviceName=esf.khastegynapazir.website&mode=gun#Adam%E2%98%95%F0%9F%87%AB%F0%9F%87%B7%20x2%20Clean
-vless://ADMIN@etp.khastegynapazir.website:2083?encryption=none&security=tls&sni=etp.khastegynapazir.website&type=ws&host=etp.khastegynapazir.website&path=%2Fadmin_zeus#Zeus%E2%9A%A1%F0%9F%87%AB%F0%9F%87%B7
 vless://ADMIN@45.85.118.57:2083?encryption=none&security=tls&sni=etp.khastegynapazir.website&type=ws&host=etp.khastegynapazir.website&path=%2Fadmin_zeus#Zeus%E2%9A%A1%F0%9F%87%AB%F0%9F%87%B7%20Clean
-vless://ADMIN@etp.khastegynapazir.website:2087?encryption=none&security=tls&sni=etp.khastegynapazir.website&type=grpc&serviceName=etp.khastegynapazir.website&mode=gun#Zeus%E2%9A%A1%F0%9F%87%AB%F0%9F%87%B7%20x2
 vless://ADMIN@45.85.118.57:2087?encryption=none&security=tls&sni=etp.khastegynapazir.website&type=grpc&serviceName=etp.khastegynapazir.website&mode=gun#Zeus%E2%9A%A1%F0%9F%87%AB%F0%9F%87%B7%20x2%20Clean
