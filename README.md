@@ -1,1 +1,2 @@
 # LittleCipher
+CIPHERISM IS THE NEW ORDER
